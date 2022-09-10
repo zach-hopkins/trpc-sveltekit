@@ -3,18 +3,20 @@
 </p>
 <h1 align="center">✨T3 Stack + SvelteKit✨</h1>
 <p align="center">
-  <a href="https://npmjs.org/package/trpc-sveltekit">
-    <img src="https://img.shields.io/npm/v/trpc-sveltekit.svg?style=flat-square" alt="NPM version" style="max-width: 100%;" />
+  <img src="https://img.shields.io/badge/PRs-welcome-blue.svg"/>
+  <a href="https://npmjs.org/package/create-t3svelte-app">
+    <img src="https://img.shields.io/npm/v/create-t3svelte-app.svg?style=flat-square" alt="NPM version" style="max-width: 100%;" />
   </a>
-  <a href="/icflorescu/trpc-sveltekit/blob/main/LICENSE">
-    <img src="http://img.shields.io/npm/l/trpc-sveltekit.svg?style=flat-square" alt="License" style="max-width: 100%;" />
+  <a href="/icflorescu/create-t3svelte-app/blob/main/LICENSE">
+    <img src="http://img.shields.io/npm/l/create-t3svelte-app.svg?style=flat-square" alt="License" style="max-width: 100%;" />
   </a>
-  <a href="https://github.com/icflorescu/trpc-sveltekit">
-    <img src="https://img.shields.io/github/stars/icflorescu/trpc-sveltekit?style=flat-square" alt="Stars" style="max-width: 100%;" />
+  <a href="https://github.com/icflorescu/create-t3svelte-app">
+    <img src="https://img.shields.io/github/stars/zach-hopkins/create-t3svelte-app?style=flat-square" alt="Stars" style="max-width: 100%;" />
   </a>
-  <a href="https://npmjs.org/package/trpc-sveltekit">
-    <img src="http://img.shields.io/npm/dm/trpc-sveltekit.svg?style=flat-square" alt="Downloads" style="max-width: 100%;" />
+  <a href="https://npmjs.org/package/create-t3svelte-app">
+    <img src="http://img.shields.io/npm/dm/create-t3svelte-app.svg?style=flat-square" alt="Downloads" style="max-width: 100%;" />
   </a>
+	
 </p>
 
 <p align="center">
@@ -131,12 +133,6 @@ export const handle = async ({ event, resolve }) => {
   return response;
 };
 ```
-
-## Examples
-
-See an example with Prisma & superjson: ✨
-- [Code](https://github.com/icflorescu/trpc-sveltekit-example)
-- [Sandbox](https://githubbox.com/icflorescu/trpc-sveltekit-example)
 
 ## License
 
